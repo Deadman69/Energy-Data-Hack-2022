@@ -5,3 +5,8 @@ Télécharger le fichier :
 - Configurer le nom du fichier d'entrer et de sortie du script
 - /!\ Bien placer le fichier d'entrer et le script dans le même dossier /!\
 - Exécuter le script (F5 dans l'IDE Python par défaut)
+
+
+NB :
+- Testé sur python 3.9.1
+- Le script prend entre 15 et 80 secondes à s'exécuter suivant la puissance du PC
